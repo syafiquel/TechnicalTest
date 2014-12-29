@@ -1,0 +1,6 @@
+C:\Users\Undefined\Documents\Visual Studio 2013\Projects\TechnicalTest\bin\Release\TechnicalTest.exe.config
+C:\Users\Undefined\Documents\Visual Studio 2013\Projects\TechnicalTest\bin\Release\TechnicalTest.exe
+C:\Users\Undefined\Documents\Visual Studio 2013\Projects\TechnicalTest\bin\Release\TechnicalTest.pdb
+C:\Users\Undefined\Documents\Visual Studio 2013\Projects\TechnicalTest\obj\Release\TechnicalTest.csprojResolveAssemblyReference.cache
+C:\Users\Undefined\Documents\Visual Studio 2013\Projects\TechnicalTest\obj\Release\TechnicalTest.exe
+C:\Users\Undefined\Documents\Visual Studio 2013\Projects\TechnicalTest\obj\Release\TechnicalTest.pdb
